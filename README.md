@@ -1,4 +1,4 @@
-                                                                                          DESCRIPCION DEL FUNCIONAMIENTO
+                                                              DESCRIPCION DEL FUNCIONAMIENTO
 
 Este programa es una aplicación de escritorio en C# que ayuda a generar cartas personalizadas de manera automática. El usuario ingresa datos como destinatario, motivo, firmante, teléfono, DPI y fecha. Luego, la app utiliza la API de OpenAI con el modelo "o4-mini" para redactar el cuerpo de la carta de manera formal y coherente.
 
